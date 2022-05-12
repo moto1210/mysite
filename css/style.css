@@ -1,0 +1,95 @@
+.header{
+    background:rgb(0, 170, 255);
+}  
+.conteiner{
+    width:1000px;
+    height: 1000px;
+    position: relative;
+}
+.namae{
+    position: absolute;
+    top:30%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    font-size:30px;
+    color: rgb(81, 0, 255);
+    padding:0;
+    margin:0;
+}
+.hobby{
+    position: absolute;
+    position: absolute;
+    top:60%;
+    left:20%;
+    transform: translate(-80%,-40%);
+    padding:0;
+    margin:0;
+}
+.ongaku{
+    position: absolute;
+    position: absolute;
+    top:60%;
+    left:45%;
+    transform: translate(-80%,-40%);
+    padding:0;
+    margin:0;
+}
+.tabemono{
+    position: absolute;
+    position: absolute;
+    top:60%;
+    left:70%;
+    transform: translate(-80%,-40%);
+    padding:0;
+    margin:0;
+}
+.hitokoto{
+    position: absolute;
+    position: absolute;
+    top:60%;
+    left:95%;
+    transform: translate(-80%,-40%);
+    padding:0;
+    margin:0;
+}
+.syumih2{
+    position: absolute;
+    position: absolute;
+    top:40%;
+    left:15%;
+    transform: translate(-80%,-40%);
+    padding:0;
+    margin:0;
+}
+.ongakuh2{
+    position: absolute;
+    position: absolute;
+    top:40%;
+    left:40%;
+    transform: translate(-80%,-40%);
+    padding:0;
+    margin:0;
+}
+.tabemonoh2{
+    position: absolute;
+    position: absolute;
+    top:40%;
+    left:65%;
+    transform: translate(-80%,-40%);
+    padding:0;
+    margin:0;
+}
+.hitoh2{
+    position: absolute;
+    position: absolute;
+    top:40%;
+    left:90%;
+    transform: translate(-80%,-40%);
+    padding:0;
+    margin:0;
+}
+
+.footer{
+    background-color: aliceblue;
+    height:290px;
+}
